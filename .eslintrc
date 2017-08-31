@@ -1,0 +1,12 @@
+{
+  "env": {
+      "browser": true
+  },
+  "globals": {
+    "Vue": true
+  },
+  "extends": "airbnb/base",
+  "rules": {
+    "indent": ["error", 4]
+  }
+}
